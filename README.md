@@ -8,11 +8,7 @@
 		
 <h2 align="center">First Heading</h2>
 
-<table allign="left"><tr>
-<td>Password</td>
-<td><input type="password"/></td>
-</tr>
-</table>
+
 
 <table   border="0px" cellpadding="0" align="center">
 
