@@ -1,0 +1,47 @@
+
+<!doctype html>
+<html>
+<head>
+<title>First web</title>
+</head>
+<body> 
+		
+<h2 align="center">First Heading</h2>
+
+<table allign="left"><tr>
+<td>Password</td>
+<td><input type="password"/></td>
+</tr>
+</table>
+
+<table   border="0px" cellpadding="0" align="center">
+
+<tr bgcolor="lightpink">
+	<th>Name</th>
+	<th>Email id</th>
+	<th>Gender</th>
+</tr>
+<tr>
+	<td align="center">Ashutosh Sahoo</td>
+	<td align="center">tanmayasa@gmail.com</td>
+	<td align="center">Male</td>
+</tr>
+<tr >
+	<td align="center">nitikesh </td>
+	<td align="center">nitikea@gmail.com</td>
+	<td align="center">Male</td>
+</tr>
+<tr>
+	<td align="center">biswajit</td>
+	<td align="center">biswa@gmail.com</td>
+	<td  align="center">Male</td>
+</tr>
+<tr>
+	<td align="center">satya</td>
+	<td align="center">satya@gmail.com</td>
+	<td align="center">Male</td>
+</tr>
+</table>
+		
+	</body>
+</html>
