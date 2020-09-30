@@ -6,11 +6,11 @@
 </head>
 <body> 
 		
-<h2 align="center">First Heading</h2>
+<b><u><h2 align="center">CONTENT</u></b></h2>
 
 
 
-<table   border="0px" cellpadding="0" align="center">
+<table   bgcolor="lightcolor" border="0px" cellpadding="0" align="center">
 
 <tr bgcolor="lightpink">
 	<th>Name</th>
