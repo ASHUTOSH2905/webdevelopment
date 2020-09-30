@@ -10,7 +10,7 @@
 
 
 
-<table   bgcolor="lightcolor" border="0px" cellpadding="0" align="center">
+<table   bgcolor="lightgreen" border="0px" cellpadding="0" align="center">
 
 <tr bgcolor="lightpink">
 	<th>Name</th>
